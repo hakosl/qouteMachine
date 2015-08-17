@@ -1,0 +1,16 @@
+body{
+	background: url(https://images.unsplash.com/photo-1437422061949-f6efbde0a471?fit=crop&fm=jpg&q=80&w=1050) 
+	no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.quote-container{
+	width: 800px;
+	margin: auto;
+	margin-top: 200px;
+}
+
+.div-center{
+	margin:auto;
+}
